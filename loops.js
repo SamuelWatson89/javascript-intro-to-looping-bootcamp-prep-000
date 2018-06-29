@@ -10,8 +10,7 @@ function forLoop(counts) {
   return counts
 }
 
-function whileLoop (spy) {
-  let countdown = 100;
+function whileLoop (10) {
    
   while (countdown > 0) {
     console.log('done')
