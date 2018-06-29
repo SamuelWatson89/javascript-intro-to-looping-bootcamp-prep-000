@@ -10,8 +10,8 @@ function forLoop(counts) {
   return counts
 }
 
-function whileLoop (10) {
-   
+function whileLoop (n) {
+   while 
   while (countdown > 0) {
     console.log('done')
   }
